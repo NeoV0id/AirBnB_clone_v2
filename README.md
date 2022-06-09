@@ -143,5 +143,5 @@ This repository is a project for Holberton School. It is the beginning of a bigg
 		test_amenity.py
 		test_city.py
 		test_state.py
--file.json
--AUTHORS
+- file.json
+- AUTHORS
