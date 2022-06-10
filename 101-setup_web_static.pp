@@ -1,3 +1,4 @@
+# Same task as task 0
 package{"nginx":
   ensure       =>  installed
   name         =>  'nginx'
